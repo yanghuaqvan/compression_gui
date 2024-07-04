@@ -1,0 +1,1 @@
+pyinstaller -i resources/compress.ico -F main.py -w
